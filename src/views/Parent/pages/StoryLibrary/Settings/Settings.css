@@ -1,0 +1,11 @@
+/* SettingsPage.css */
+.mainSettings {
+  margin-left: 13px;
+  font-family: var(--font-family);
+}
+/* Responsive design */
+@media (max-width: 768px) {
+  .radio-group {
+    flex-direction: column;
+  }
+}

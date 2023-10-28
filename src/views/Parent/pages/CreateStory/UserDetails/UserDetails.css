@@ -1,0 +1,29 @@
+.AddCircleIcon {
+  cursor: pointer;
+}
+
+.AddCircleIcon:hover {
+  transform: scale(1.05);
+  transition: ease-in-out 0.1s;
+}
+
+.enterNameInput {
+  width: 150px;
+}
+
+/* Main Div - For whole Page */
+.mainDiv-CreateStoryUserDetails{
+  font-family: var(--font-family);
+}
+
+/* Header for the page */
+.h1-CreateStoryUserDetails{
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+/* Grid that everything is for User Deails layout */
+/* .Grid-UserDetails{
+
+} */
+

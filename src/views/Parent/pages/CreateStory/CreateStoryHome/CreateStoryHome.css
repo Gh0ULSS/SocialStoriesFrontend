@@ -1,0 +1,19 @@
+/* This is the main div - for the whole page Create Stories Home - this part makes all text the same on the page */
+.mainDiv-CreateStoriesHome{
+    margin-left: 13%;
+    margin-right: 13%;
+    font-family: var(--font-family);
+}
+/* This is the header "Create User Stories" this sets the spacing between header and title */
+#h1-CreateUserStories{
+    margin-top: 30px;
+}
+
+/* This is Pragraph 1 - where text is displayed on the page - "Welcome to the Create Your Story .... " - this just sets the spacing  */
+#p1-CreateUserStories{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    line-height: 140%;
+    font-size: large;
+}
+

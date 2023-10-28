@@ -1,0 +1,40 @@
+/* Home Page Div - This is the main div and contains all the sub divs used for this page  */
+.HomePageContentAdmin{
+    /*background-color: green;*/
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: var(--font-family);
+    
+}
+
+/* Welcome Div - This is the div that conatines the "Welcome, Admin!"  */
+.welcomeAdmin{
+    text-align: center;
+    
+}
+
+
+/* h1 headding - This is the heading that is insode the Welcome div. 
+   This displays the "Welcome, Admin!"
+#titleAdmin{
+    vertical-align:text-bottom;
+} */
+
+
+/* Home Body Div - This Div conatins the text that is displayed to the user when they log in 
+which conatins infomation about the site.*/
+.homeBodyAdmin{
+    text-align: justify;
+}
+
+/* Home Body p - this contains the text thats is displayed to the admin when they login.*/
+#homePageTextAdmin{
+    font-size: large;
+    
+}
+
+/* This is the DIV that the buttons on the home page are located in */
+.adminButton{
+    display: flex;
+    justify-content: center;
+}

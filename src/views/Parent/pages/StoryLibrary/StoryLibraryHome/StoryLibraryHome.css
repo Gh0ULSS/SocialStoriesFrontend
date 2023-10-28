@@ -1,0 +1,23 @@
+/* This is the main div - for the whole page Stroy Libary Home - this part makes all text the same on the page */
+.mainDiv-StroyLibaryHome{
+    margin-left: 13%;
+    margin-right: 13%;
+    font-family: var(--font-family);
+}
+
+#h1-StoryLibaryHome{
+    margin-top: 30px;
+}
+/* This is Pragraph 1 - where text is displayed on the page - "Welcome to our Social Story Library .... " - this just sets the spacing  */
+#p1-StroyLibaryHome{
+    margin-top: 10px;
+    line-height: 140%;
+    font-size: larger;
+}
+
+/* This is Pragraph 1 - where text is displayed on the page - "Our library, provides the parents .... " - this just sets the spacing  */
+#p2-StroyLibaryHome{
+    margin-top: 10px;
+    line-height: 140%;
+    font-size: large;
+}

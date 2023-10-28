@@ -1,0 +1,63 @@
+/* Whole Card display - this is what theimage and text is on*/
+.card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-left: 13%;
+    margin-right: 13%;
+    background-color: #f8f8f8;
+    text-align: center;
+  }
+  
+/* This is the button container that - back, next and edit are in - allows them to all be on the same line*/
+.button-container {
+    display: flex;
+    justify-content: center; /* Center-align horizontally */
+    align-items: center; /* Center-align vertically */
+     margin-top: 20px;
+  }
+  
+/* This is the button group inside the button container that - back, next and edit are in - allows them to all be on the same line*/
+  .button-group {
+    display: flex;
+    justify-content: center; /* Center-align horizontally within the group */
+    align-items: center; /* Center-align vertically within the group */
+  }
+
+/* This is the CSS for the Genatate Pdf and download pdf */
+.GeneratePDF {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    margin-top: 20px; /* Add margin to separate it from the card */
+}
+
+/* CSS for Generate PDF and Download PDF buttons */
+.generate-pdf-buttons {
+    display: flex; /* Display buttons in the same line */
+    align-items: center; /* Center-align vertically */
+}
+  
+/* This is the css for teh genrate & downlaod pdf buttons */
+.custom-button {
+    font-size: medium;
+    border-radius: 4px;
+    margin: 0 8px; /* Add margin between buttons */
+    margin-top: 10px; /* Add margin to separate buttons vertically */
+}
+
+/* THIS SETSTHE FONT FOR THE TITLE AND CARD */
+/* .maincontent-titlecard {
+    font-family:"Comic Neue";
+  } */
+  
+ /* This aligns the title of the page in ther center of the page */
+.titleStory {
+    text-align: center; /* Center-align the text within the title element */
+    margin-bottom: 1%;
+    font-family:"Comic Neue";
+}
+
+.titleTextstory{
+  margin-bottom: 40px;
+}
+  

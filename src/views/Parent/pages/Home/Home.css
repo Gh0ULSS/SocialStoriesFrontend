@@ -1,0 +1,50 @@
+/* Home Page Div - This is the main div and contains all the sub divs used for this page  */
+.HomePageContentParent{
+    /* background-color: hotpink;*/
+    margin-left: 13%;
+    margin-right: 13%;
+    font-family: var(--font-family);
+}
+
+/* Welcome Div - This is the div that conatines the "Welcome, Parent!"  */
+.WelcomeParent{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+/* h1 headding - This is the heading that is insode the Welcome div. 
+   This displays the "Welcome, Parent!"
+#titleParent{
+    
+} */
+#homePageTextParent{
+    font-size: large;
+}
+/* Home Body Div - This Div conatins the content that is displayed to the user when they log in 
+which conatins infomation about the site. */
+.homeBodyParent{
+    text-align: justify;
+    font-size: large;
+   
+}
+
+/* this is the line soacing for pragpragh on the page - "At Sunset Stories, we are dedicated to..."*/
+#p1-HomePageText{
+    line-height: 130%;
+    font-size: large;
+}
+/* Home Body Text - This p conatins the text for the site. */
+#homePageTextParent{
+    display: inline;
+}
+
+/* Home Body Text - This div conatins the indents for the 2nd half of the text */
+#homePageTextParent2{
+    margin-right: 5% ;
+    margin-left: 1.5%;
+    padding-top: 5px;
+    line-height: 140%;
+    
+}
+

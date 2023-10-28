@@ -1,0 +1,14 @@
+/* This is the Div - This is the spacing from the edge of screen and the font used in the div */
+.mainDiv-PECSLIB{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: var(--font-family);
+}
+
+/* This is the header "PECS Libary" this sets the spacing between header and title */ 
+#h1-PECSLibary{
+    margin-top: 30px;
+    margin-bottom: 32px;
+    text-align: center;
+
+}

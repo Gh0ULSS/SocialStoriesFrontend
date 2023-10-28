@@ -1,0 +1,18 @@
+/* Whole Div for the Client Page */
+
+#images {
+  text-align: center;
+}
+
+#S3media {
+  width: 700px;
+  height: 500px;
+  text-align: center;
+}
+
+/* Title of page */
+.WelcomeCli {
+  padding-top: 82px;
+  font-family: var(--font-family);
+  text-align: center;
+}

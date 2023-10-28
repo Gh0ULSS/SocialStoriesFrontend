@@ -1,0 +1,18 @@
+/* Main Div - Contains whole pages content */
+.mainDiv-StroySelection{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: var(--font-family);
+}
+
+/* Header */
+#h1-StroySelection{
+    text-align: center;
+}
+
+/* Grid - Center the Grid Contents */
+.Grid-StroySelection{
+    justify-content: center;
+    
+}
+
