@@ -18,3 +18,4 @@ npm install
 # Serve with hot reload at localhost:3000
 npm run start
 ```
+Due to the architecture of our web application. Refer to the backend: https://github.com/Gh0ULSS/SocialStoriesBackend
